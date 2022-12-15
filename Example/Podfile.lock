@@ -1,0 +1,27 @@
+PODS:
+  - LitSwift (0.0.1):
+    - WKWebViewJavascriptBridge
+  - SnapKit (5.6.0)
+  - WKWebViewJavascriptBridge (1.2.2)
+
+DEPENDENCIES:
+  - LitSwift (from `../`)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - WKWebViewJavascriptBridge
+
+EXTERNAL SOURCES:
+  LitSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LitSwift: 5c0efa3e76cbe969804fce5dea65d779cb625afc
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  WKWebViewJavascriptBridge: d7324badf8996486c71648f448617b09bf927b4b
+
+PODFILE CHECKSUM: 36f4f4d36407ca411f81d2999523d2a2e3183a32
+
+COCOAPODS: 1.11.3

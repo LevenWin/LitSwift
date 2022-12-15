@@ -1,2 +1,2 @@
 # LitSwift
-swift version for lit protocol
+swift version for Lit Protocol

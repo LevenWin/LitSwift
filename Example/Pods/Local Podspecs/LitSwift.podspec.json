@@ -1,0 +1,27 @@
+{
+  "name": "LitSwift",
+  "version": "0.0.1",
+  "summary": "LitSwift lib",
+  "description": "LitSwift lib desc",
+  "homepage": "https://github.com/LevenWin/LitSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leven": "isrealleven@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "git@github.com:LevenWin/LitSwift.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "LitSwift/Sources/**/*.{h,m,swift}",
+  "dependencies": {
+    "WKWebViewJavascriptBridge": [
+
+    ]
+  }
+}
