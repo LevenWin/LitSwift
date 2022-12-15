@@ -7,9 +7,9 @@
 
 import Foundation
 import SafariServices
-class LitManager {
+public class LitManager {
     
-    static func getPKPByGoogleOAuth(_ from:  UIViewController) {
+    public static func getPKPByGoogleOAuth(_ from:  UIViewController) {
         let vc = SFSafariViewController(url: URL(string: "https://jlabsau.github.io/oauth-pkp-signup-example/")!)
 //        let vc = SFSafariViewController(url: URL(string: "https://lit-relay-server.api.3wlabs.xyz:3001/")!)
         from.present(vc, animated: true)
